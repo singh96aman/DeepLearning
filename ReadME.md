@@ -1,0 +1,1 @@
+Live Repository of the Deep Learning Specialisation at Coursera provided by deeplearning.ai. It covers the basics of Neural Network programming and the application of Deep Learning in Supervised and Unsupervised Learning.
